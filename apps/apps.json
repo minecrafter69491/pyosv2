@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Terminal",
+      "description": "Launch Terminal",
+      "package": "term.zip"
+    },
+    {
+      "name": "XeLL Launch",
+      "description": "Launch XeLL",
+      "package": "xelllaunch.zip"
+    }
+  ]
+}
